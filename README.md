@@ -37,3 +37,5 @@ Uncache the home_sales temporary table.
 Verify that the home_sales temporary table is uncached using PySpark.
 
 Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
+
+Sources used: Referred back to coding covered in Module 22 in class activity solutions; Stack Overflow postings: How to change dataframe column names in PySpark?, Show distinct column values in pyspark dataframe, Using pyspark in Google Colab; YouTube: Setting up the PySpark environment on Google Colab, Apache Spark / PySpark Tutorial: Basics In 15 Mins
